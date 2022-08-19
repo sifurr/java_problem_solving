@@ -21,7 +21,7 @@ public class Fib2
 
 	public static void main(String[] args)
 	{
-		System.out.println(fib2(8)); // this will cause an error
+		System.out.println(fib2(8)); // 21
 
 	}
 
