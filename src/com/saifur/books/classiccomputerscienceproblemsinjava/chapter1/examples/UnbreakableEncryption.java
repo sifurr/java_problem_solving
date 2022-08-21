@@ -47,8 +47,5 @@ public class UnbreakableEncryption
 		KeyPair kp = encrypt("One Time Pad!");
 		String result = decrypt(kp);
 		System.out.println(result);
-	}
-	
-	
-	
+	}	
 }
