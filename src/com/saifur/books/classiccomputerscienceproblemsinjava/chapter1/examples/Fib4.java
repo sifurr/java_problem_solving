@@ -22,8 +22,8 @@ public class Fib4
 
 	public static void main(String[] args)
 	{
-		System.out.println(fib4(10)); // 55
-		System.out.println(fib4(40)); // 102334155
+		System.out.println(fib4(1)); // 55
+		System.out.println(fib4(10)); // 102334155
 
 	}
 
